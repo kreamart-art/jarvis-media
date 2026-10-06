@@ -1,0 +1,8 @@
+{
+  "name": "jarvis-media",
+  "private": true,
+  "type": "module",
+  "description": "A short-lived, key-protected media drop for JARVIS: Instagram fetches post photos and videos from here.",
+  "scripts": { "start": "node server.js", "test": "node test.js" },
+  "engines": { "node": ">=22" }
+}
